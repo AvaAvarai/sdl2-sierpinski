@@ -10,7 +10,3 @@ test.sh - uses makefile to test the application: builds, runs, then cleans up.
 ## Running
 
 `./test.sh`
-
-## LICENSE
-
-[BSD-3](https://choosealicense.com/licenses/bsd-3-clause/)
